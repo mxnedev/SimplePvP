@@ -1,0 +1,12 @@
+name: SimplePvP
+main: hu.mxnedev.zultexstudios.SimplePvP
+author: mxnedev
+version: 1.0.0
+
+api-version: 1.20
+
+commands:
+  pvp:
+    description: Gives you iron armor, sharp 1 diamond sword, and a full inventory of soup
+    usage: /pvp
+    permission: pvp.command
